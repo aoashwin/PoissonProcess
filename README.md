@@ -53,8 +53,9 @@ print(" rate of 3 per minute during a time interval of 2 min.",m)
 ```
  
 
-# Results and Output : 
+# Output : 
  ![image](https://user-images.githubusercontent.com/75235813/172535329-90f04730-f052-4e28-b541-b8126623046a.png)
-
+ 
+# Result:
 Thus, the program to find the probability of the given conditions using Poisson process is implemented.
  
